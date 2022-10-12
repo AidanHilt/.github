@@ -130,8 +130,6 @@ typing_extensions==4.1.1
 uritemplate==3.0.1
 urllib3==1.25.11
 userdatamodel==2.4.0
-virtualenv==20.16.2
-virtualenv-clone==0.4.0
 wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==1.0.1
